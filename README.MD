@@ -1,4 +1,4 @@
-# Wordcloud as a Docker image
+# Azure CLI as a Docker image
 
 [![CircleCI](https://circleci.com/gh/koenighotze/az-cli-docker/tree/master.svg?style=svg)](https://circleci.com/gh/koenighotze/az-cli-docker/tree/master)
 
