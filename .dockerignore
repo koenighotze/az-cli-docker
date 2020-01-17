@@ -1,0 +1,4 @@
+.circleci
+README.MD
+.git
+build_image.sh
